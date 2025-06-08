@@ -25,6 +25,6 @@ This project is an end-to-end ETL pipeline that fetches live currency exchange r
 ### 2. Clone & Start
 
 ```bash
-git clone https://github.com/yourusername/currency_etl_project.git
+git clonehttps://github.com/Jamorno/Currency-Exchange-ETL-with-Apache-Airflow-Docker-PostgreSQL-.git
 cd currency_etl_project
 docker compose up --build
