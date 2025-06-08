@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables
+.env
+*.env
+
+# Logs
+*.log
+logs/
+output/
+
+# SQLite or temporary databases
+*.db
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Docker
+*.pid
+*.pid.lock
+docker-compose.override.yml
+
+# Airflow
+airflow.cfg
+unittests.cfg
+.venv/
+dags/__pycache__/
+plugins/__pycache__/
